@@ -233,8 +233,9 @@ spotify-social-media-analytics-excel/
 ├── task_4.xlsx
 ├── task_5.xlsx
 └── task_6.xlsx
+---
 
-
+---
 # Conclusion
 
 This project demonstrates the use of **Microsoft Excel for practical social media and marketing analytics**.
