@@ -233,13 +233,7 @@ spotify-social-media-analytics-excel/
 ├── task_4.xlsx
 ├── task_5.xlsx
 └── task_6.xlsx
-```
 
-The original dataset is not included in this repository.
-
-The video-link file is also not included in the portfolio repository.
-
----
 
 # Conclusion
 
